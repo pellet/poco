@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>59843209-734E-4750-AF13-22023B113D49</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>32FE6D72-1625-40F4-A3AF-B8B8F1787D01</key>
+		<string>https://github.com/pocoproject/poco.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Foundation/Project.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>32FE6D72-1625-40F4-A3AF-B8B8F1787D01</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pocoproject/poco.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>32FE6D72-1625-40F4-A3AF-B8B8F1787D01</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>32FE6D72-1625-40F4-A3AF-B8B8F1787D01</string>
+			<key>IDESourceControlWCCName</key>
+			<string>poco</string>
+		</dict>
+	</array>
+</dict>
+</plist>
